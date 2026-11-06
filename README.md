@@ -1,5 +1,16 @@
 # 💫 About Me:
-Hey, I'm Kalash 👋, part developer, part AI tinkerer.<br><br>```bash<br>$ whoami<br>kalash<br><br>$ cat interests.txt<br>voice AI, RAG, computer vision, full-stack<br><br>$ git commit -m "learn something new every day"<br>```
+Hey, I'm Kalash 👋, part developer, part AI tinkerer.
+
+<pre>
+$ whoami
+kalash
+
+$ cat interests.txt
+voice AI, RAG, computer vision, full-stack
+
+$ git commit -m "learn something new every day"
+[main] 1 new skill learned 🚀
+</pre>
 
 
 ## 🌐 Socials:
